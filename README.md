@@ -4,7 +4,6 @@
 
 2. [Path to image two](https://github.com/ktmcglade/Food/blob/master/media_files/IMG-1059.JPG)
 
-3.[Path to Atom](https://www.macupdate.com/app/mac/53196/atom)
+3. [Path to Atom](https://www.macupdate.com/app/mac/53196/atom)
 
 4. [Path to Google](https://google.com)
-
